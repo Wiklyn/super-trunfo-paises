@@ -42,6 +42,7 @@ Neste projeto utilizei:
     - [Registro de duas cartas e comparação de uma propriedade numérica escolhida pelo usuário](#registro-de-duas-cartas-e-comparação-de-uma-propriedade-numérica-escolhida-pelo-usuário)
     - [Registro de duas cartas e comparação da soma de duas propriedades numéricas escolhidas pelo usuário](#registro-de-duas-cartas-e-comparação-da-soma-de-duas-propriedades-numéricas-escolhidas-pelo-usuário)
     - [Registro de duas cartas e comparação de todas as propriedades numéricas](#registro-de-duas-cartas-e-comparação-de-todas-as-propriedades-numéricas)
+      - [Possíveis resultados da comparação das propriedades](#possíveis-resultados-da-comparação-das-propriedades)
 
 ## Explicação do Projeto
 
@@ -527,7 +528,7 @@ Qual carta tem maior numero de pontos turisticos? 1. Portanto, a carta 1 ganhou.
 Qual carta tem maior super poder? 1. Portanto, a carta 1 ganhou.
 ```
 
-#### Possíveis resultados da comparação
+#### Possíveis resultados da comparação das propriedades
 
 - `1. Portanto, a carta 1 ganhou`
 - `0. Portanto, a carta 2 ganhou.`
